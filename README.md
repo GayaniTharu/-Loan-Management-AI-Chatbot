@@ -5,6 +5,7 @@ This AI-powered chatbot interfaces with MongoDB to provide detailed loan managem
 This AI-powered chatbot interfaces with MongoDB to provide detailed loan management assistance, offering real-time access to customer information, loan details, and payment schedules in a structured, easy-to-read format.
 
 ✨ Features
+
 Real-time loan information retrieval
 Structured responses with emoji-enhanced formatting
 Persistent conversation memory
@@ -13,6 +14,7 @@ Vector-based similarity search using FAISS
 Responsive web interface
 Session-based chat history
 🛠️ Tech Stack
+
 Backend: Flask
 AI/ML:
 LangChain Framework
@@ -24,13 +26,16 @@ Additional:
 CORS support
 Environment variable management
 Session management
+
 🚀 Getting Started
+
 Prerequisites
 Python 3.8+
 MongoDB Atlas account
 Google AI Platform API key
 
 Installation
+
 1.Clone the repository
 git clone https://github.com/yourusername/loan-management-chatbot.git
 cd loan-management-chatbot
@@ -65,6 +70,8 @@ Example query:"What is the loan status for customer ID 12345?"
 LangChain for the excellent LLM framework
 Google for Gemini Pro API
 MongoDB Atlas for database services
+
+
 Made with ❤️ by GayaniTharu
 
 
